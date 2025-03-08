@@ -1,0 +1,71 @@
+.filters{
+    padding: 1em 1em;
+    margin: 3em 3em;
+    border: 1px solid #0000001c;
+    display: flex;
+    gap: 1em;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.filters button{
+    padding: 6px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: #4c99f4;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+}
+
+.totalQuestions{
+    padding: 0 3em;
+    margin: 0 0 0 1em;
+}
+
+.resultDiv{
+    margin: 6em auto;
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    font-size: 1.4em;
+    box-shadow: -2px 2px 20px 3px #cbcbcb1d;
+    padding: 30px 40px;
+    border: 1px solid #8080804a;
+}
+
+.taxa_percentual, .erros, acertos{
+    margin: 6px 0;
+}
+
+.erros span{
+    color: red;
+}
+
+.acertos span{
+    color: #00ee00;
+}
+
+.taxa_percentual span{
+    color: #4c99f4;
+}
+
+.alert{
+    margin: auto;
+    border: 2px solid red;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    background-color: #ffdfdf;
+    color: red;
+}
+
+.alert p{
+    margin: 0;
+}
+
+.actualQ_totalQ{
+    text-align: center;
+    margin-top: 4em;
+}

@@ -1,0 +1,35 @@
+nav{
+    display: flex;
+    padding: 1em 3em;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #4c99f4;
+    color: white;
+}
+
+.logo{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.logo span{
+    display: flex;
+    font-size: 2.5em;
+    color: cyan;
+}
+
+.logo a{
+    font-size: 1.5em;
+    color: white;
+}
+
+nav a{
+    color: white;
+}
+
+.links{
+    display: flex;
+    gap: 1.5em;
+    font-size: 1.2em;
+}

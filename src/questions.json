@@ -1,0 +1,1381 @@
+[
+    {
+        "id": 1,
+        "query": "Qual é a unidade de medida da corrente elétrica?",
+        "options": ["Ohm", "Ampère", "Volt", "Watt"],
+        "answer": "Ampère",
+        "discipline": "Física",
+        "subject": "Eletricidade"
+    },
+
+    {
+        "id": 2,
+        "query": "Qual é o fenômeno responsável pela separação da luz branca em várias cores ao passar por um prisma?",
+        "options": ["Reflexão", "Refração", "Dispersão", "Difração"],
+        "answer": "Dispersão",
+        "discipline": "Física",
+        "subject": "Óptica"
+    },
+
+    {
+        "id": 3,
+        "query": "Qual teoria propõe que espécies evoluem lentamente ao longo do tempo por meio da seleção natural?",
+        "options": ["Teoria da Criação Especial", "Lamarckismo", "Darwinismo", "Equilíbrio pontuado"],
+        "answer": "Darwinismo",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+
+    {
+        "id": 4,
+        "query": "Qual processo do ciclo biogeoquímico da água é responsável pela transferência de água da superfície terrestre para a atmosfera?",
+        "options": ["Precipitação", "Infiltração", "Evaporação", "Condensação"],
+        "answer": "Evaporação",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+
+    {
+        "id": 5,
+        "query": "Qual processo do ciclo do carbono é responsável pela conversão de dióxido de carbono (CO₂) em matéria orgânica pelos seres vivos?",
+        "options": ["Fotossíntese", "Respiração celular", "Decomposição", "Combustão"],
+        "answer": "Fotossíntese",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+
+    {
+        "id": 6,
+        "query": "Qual processo do ciclo do nitrogênio converte a amônia (NH₃) em nitrato (NO₃⁻), uma forma de nitrogênio utilizável pelas plantas?",
+        "options": ["Fixação biológica", "Desnitrificação", "Nitrificação", "Ammonificação"],
+        "answer": "Nitrificação",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 6,
+        "query": "Qual teoria propõe que características adquiridas durante a vida de um organismo podem ser passadas para seus descendentes?",
+        "options": ["Teoria da Criação Especial", "Lamarckismo", "Darwinismo", "Equilíbrio pontuado"],
+        "answer": "Lamarckismo",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+    {
+        "id": 7,
+        "query": "De acordo com a teoria darwinista, o que determina a sobrevivência e reprodução dos indivíduos em uma população?",
+        "options": ["Adaptação ao ambiente", "Tamanho corporal", "Cor da pelagem", "Comportamento aprendido"],
+        "answer": "Adaptação ao ambiente",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+    {
+        "id": 7,
+        "query": "Qual conceito darwinista explica que organismos com características vantajosas têm maior probabilidade de sobreviver e passar essas características para a próxima geração?",
+        "options": ["Seleção natural", "Evolução convergente", "Especiação alopátrica", "Equilíbrio pontuado"],
+        "answer": "Seleção natural",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+    {
+        "id": 8,
+        "query": "Como o conceito de 'seleção sexual' se relaciona com a teoria darwinista e qual é o seu impacto na evolução das espécies?",
+        "options": [
+            "A seleção sexual é um processo independente da seleção natural e não influencia a evolução.",
+            "A seleção sexual é um tipo de seleção natural que atua sobre características que aumentam o sucesso reprodutivo, mesmo que não sejam vantajosas para a sobrevivência.",
+            "A seleção sexual só ocorre em espécies com dimorfismo sexual e não tem impacto evolutivo significativo.",
+            "A seleção sexual é responsável pela extinção de espécies que não conseguem competir por parceiros."
+        ],
+        "answer": "A seleção sexual é um tipo de seleção natural que atua sobre características que aumentam o sucesso reprodutivo, mesmo que não sejam vantajosas para a sobrevivência.",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+    {
+        "id": 9,
+        "query": "Qual é o papel das variações genéticas na teoria darwinista da evolução por seleção natural?",
+        "options": [
+            "As variações genéticas são irrelevantes para a seleção natural, pois apenas o ambiente determina a evolução.",
+            "As variações genéticas fornecem a matéria-prima para a seleção natural, permitindo que indivíduos com características vantajosas sobrevivam e se reproduzam.",
+            "As variações genéticas são sempre prejudiciais e eliminadas pela seleção natural.",
+            "As variações genéticas só ocorrem em espécies que já estão em processo de extinção."
+        ],
+        "answer": "As variações genéticas fornecem a matéria-prima para a seleção natural, permitindo que indivíduos com características vantajosas sobrevivam e se reproduzam.",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+    {
+        "id": 10,
+        "query": "Como o conceito de 'aptidão darwiniana' é medido e qual a sua importância para a teoria da evolução?",
+        "options": [
+            "A aptidão darwiniana é medida pela longevidade do indivíduo e não tem relação direta com a reprodução.",
+            "A aptidão darwiniana é medida pelo número de descendentes viáveis que um indivíduo deixa ao longo da vida, refletindo sua contribuição para o pool genético da próxima geração.",
+            "A aptidão darwiniana é determinada apenas pelo tamanho corporal do indivíduo.",
+            "A aptidão darwiniana é irrelevante para a seleção natural, pois apenas o ambiente define a sobrevivência."
+        ],
+        "answer": "A aptidão darwiniana é medida pelo número de descendentes viáveis que um indivíduo deixa ao longo da vida, refletindo sua contribuição para o pool genético da próxima geração.",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+    {
+        "id": 11,
+        "query": "Qual é a relação entre o conceito de 'pressão seletiva' e a diversificação de espécies ao longo do tempo, de acordo com a teoria darwinista?",
+        "options": [
+            "A pressão seletiva é um fator que impede a diversificação de espécies, mantendo-as uniformes.",
+            "A pressão seletiva atua de forma semelhante em todos os ambientes, resultando em pouca diversificação.",
+            "A pressão seletiva varia conforme o ambiente e as condições ecológicas, favorecendo características diferentes em populações distintas, o que pode levar à especiação.",
+            "A pressão seletiva só influencia a evolução de espécies que já estão em processo de extinção."
+        ],
+        "answer": "A pressão seletiva varia conforme o ambiente e as condições ecológicas, favorecendo características diferentes em populações distintas, o que pode levar à especiação.",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+    {
+        "id": 12,
+        "query": "Como o conceito de 'deriva genética' se diferencia da seleção natural no contexto da teoria darwinista, e em que situações ela se torna mais relevante?",
+        "options": [
+            "A deriva genética é um processo direcionado que sempre favorece características vantajosas, assim como a seleção natural.",
+            "A deriva genética é um processo aleatório que altera a frequência de genes em populações pequenas, independentemente de sua vantagem adaptativa, enquanto a seleção natural é direcionada por pressões ambientais.",
+            "A deriva genética só ocorre em populações grandes e tem pouco impacto na evolução das espécies.",
+            "A deriva genética é um mecanismo que substitui a seleção natural em ambientes estáveis."
+        ],
+        "answer": "A deriva genética é um processo aleatório que altera a frequência de genes em populações pequenas, independentemente de sua vantagem adaptativa, enquanto a seleção natural é direcionada por pressões ambientais.",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+    {
+        "id": 13,
+        "query": "Qual dos seguintes mecanismos de especiação é caracterizado pela separação física de uma população, levando ao desenvolvimento de novas espécies ao longo do tempo?",
+        "options": [
+            "Especiação alopátrica",
+            "Especiação simpátrica",
+            "Especiação parapátrica",
+            "Especiação peripátrica"
+        ],
+        "answer": "Especiação alopátrica",
+        "discipline": "Biologia",
+        "subject": "Evolução"
+    },
+    {
+        "id": 14,
+        "query": "Qual das seguintes atividades humanas é considerada a principal causa do aquecimento global?",
+        "options": [
+        "Agricultura sustentável",
+        "Queima de combustíveis fósseis",
+        "Reciclagem de resíduos",
+        "Reflorestamento"
+        ],
+        "answer": "Queima de combustíveis fósseis",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 15,
+        "query": "Como o aumento das concentrações de CO₂ na atmosfera afeta a química dos oceanos?",
+        "options": [
+        "Aumenta o pH, tornando os oceanos mais alcalinos",
+        "Reduz o pH, causando acidificação dos oceanos",
+        "Não tem impacto significativo na química dos oceanos",
+        "Aumenta a concentração de oxigênio dissolvido"
+        ],
+        "answer": "Reduz o pH, causando acidificação dos oceanos",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 16,
+        "query": "Por que o derretimento do permafrost é uma preocupação significativa para o aquecimento global?",
+        "options": [
+        "Libera grandes quantidades de oxigênio na atmosfera",
+        "Libera metano e CO₂ armazenados, amplificando o efeito estufa",
+        "Aumenta a reflexão da luz solar, resfriando o planeta",
+        "Reduz a umidade atmosférica global"
+        ],
+        "answer": "Libera metano e CO₂ armazenados, amplificando o efeito estufa",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 17,
+        "query": "Como o aquecimento global afeta os recifes de coral?",
+        "options": [
+        "Aumenta a biodiversidade dos recifes",
+        "Causa branqueamento dos corais devido ao aumento da temperatura da água",
+        "Reduz a acidez dos oceanos, beneficiando os corais",
+        "Não tem impacto significativo nos recifes de coral"
+        ],
+        "answer": "Causa branqueamento dos corais devido ao aumento da temperatura da água",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 18,
+        "query": "Por que o ciclo da água é essencial para a manutenção da vida na Terra?",
+        "options": [
+        "Distribui nutrientes minerais pelo solo",
+        "Regula a temperatura global e fornece água doce",
+        "Aumenta a salinidade dos oceanos",
+        "Reduz a umidade atmosférica"
+        ],
+        "answer": "Regula a temperatura global e fornece água doce",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 19,
+        "query": "Qual dos seguintes é o maior reservatório de carbono na Terra?",
+        "options": [
+        "Atmosfera",
+        "Oceanos",
+        "Florestas",
+        "Solos"
+        ],
+        "answer": "Oceanos",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 20,
+        "query": "Como a decomposição de matéria orgânica contribui para o ciclo do carbono?",
+        "options": [
+        "Libera oxigênio na atmosfera",
+        "Converte CO₂ em glicose",
+        "Libera CO₂ de volta para a atmosfera",
+        "Armazena carbono no solo indefinidamente"
+        ],
+        "answer": "Libera CO₂ de volta para a atmosfera",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 21,
+        "query": "Qual dos seguintes organismos é responsável pela fixação biológica do nitrogênio atmosférico?",
+        "options": [
+        "Fungos",
+        "Bactérias rizóbias",
+        "Plantas",
+        "Animais herbívoros"
+        ],
+        "answer": "Bactérias rizóbias",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 22,
+        "query": "Como o uso excessivo de fertilizantes nitrogenados na agricultura afeta o ciclo do nitrogênio?",
+        "options": [
+        "Aumenta a fixação biológica de nitrogênio",
+        "Causa eutrofização de corpos d'água",
+        "Reduz a disponibilidade de nitrogênio no solo",
+        "Promove a desnitrificação excessiva"
+        ],
+        "answer": "Causa eutrofização de corpos d'água",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 23,
+        "query": "De que maneira o desmatamento em grande escala pode impactar o ciclo da água em uma região e quais são as possíveis consequências desse impacto para o clima local e global?",
+        "options": [
+            "Aumenta a infiltração da água no solo, reduzindo a erosão e melhorando a retenção hídrica",
+            "Diminui a evapotranspiração, reduzindo a umidade do ar e alterando padrões climáticos",
+            "Intensifica a precipitação local devido à menor cobertura vegetal",
+            "Favorece o armazenamento de água subterrânea, aumentando a disponibilidade hídrica ao longo do tempo"
+        ],
+        "answer": "Diminui a evapotranspiração, reduzindo a umidade do ar e alterando padrões climáticos",
+        "discipline": "Biologia",
+        "subject": "Ecologia"
+    },
+    {
+        "id": 24,
+        "query": "Qual era o principal método utilizado por Sócrates para alcançar o conhecimento e estimular o pensamento crítico em seus interlocutores?",
+        "options": [
+            "O método dedutivo, baseado na lógica formal",
+            "A dialética hegeliana, que enfatiza a síntese de opostos",
+            "A maiêutica, que buscava extrair conhecimento por meio do questionamento",
+            "O empirismo, que enfatizava a experiência sensorial como base do saber"
+        ],
+        "answer": "A maiêutica, que buscava extrair conhecimento por meio do questionamento",
+        "discipline": "Filosofia",
+        "subject": "Epistemologia"
+    },
+    {
+        "id": 25,
+        "query": "Na teoria das ideias de Platão, qual é a relação entre o mundo sensível e o mundo inteligível?",
+        "options": [
+            "O mundo sensível é a cópia imperfeita do mundo inteligível, onde residem as formas perfeitas",
+            "O mundo inteligível é uma ilusão criada pela mente humana para dar sentido ao mundo sensível",
+            "O mundo sensível é mais real do que o mundo inteligível, pois pode ser observado empiricamente",
+            "O mundo inteligível e o mundo sensível são idênticos e não há diferença entre eles"
+        ],
+        "answer": "O mundo sensível é a cópia imperfeita do mundo inteligível, onde residem as formas perfeitas",
+        "discipline": "Filosofia",
+        "subject": "Metafísica"
+    },
+    {
+        "id": 26,
+        "query": "De acordo com Aristóteles, qual é a chave para alcançar a eudaimonia (felicidade plena) na vida humana?",
+        "options": [
+            "A busca pelos prazeres imediatos e pela satisfação dos desejos",
+            "O afastamento da vida política e o isolamento contemplativo",
+            "A prática da virtude e a busca do equilíbrio entre os extremos",
+            "A obediência irrestrita às regras estabelecidas pela sociedade"
+        ],
+        "answer": "A prática da virtude e a busca do equilíbrio entre os extremos",
+        "discipline": "Filosofia",
+        "subject": "Ética"
+    },
+    {
+        "id": 27,
+        "query": "O que caracteriza a ironia socrática e qual era seu papel no método filosófico de Sócrates?",
+        "options": [
+            "Uma técnica retórica para ridicularizar seus adversários em debates públicos",
+            "Uma forma de disfarçar seu conhecimento para evitar perseguições políticas",
+            "Uma estratégia para levar seus interlocutores a reconhecer sua própria ignorância",
+            "Uma maneira de apresentar suas crenças religiosas sem contrariar os deuses atenienses"
+        ],
+        "answer": "Uma estratégia para levar seus interlocutores a reconhecer sua própria ignorância",
+        "discipline": "Filosofia",
+        "subject": "Epistemologia"
+    },
+    {
+        "id": 28,
+        "query": "Qual foi a principal acusação que levou Sócrates à condenação à morte em Atenas?",
+        "options": [
+            "Praticar feitiçaria e corromper a juventude com ensinamentos ilegais",
+            "Questionar os valores tradicionais, introduzir novos deuses e corromper a juventude",
+            "Planejar um golpe político para restaurar o governo oligárquico em Atenas",
+            "Recusar-se a prestar serviço militar e desobedecer as leis da cidade"
+        ],
+        "answer": "Questionar os valores tradicionais, introduzir novos deuses e corromper a juventude",
+        "discipline": "Filosofia",
+        "subject": "História da Filosofia"
+    },
+    {
+        "id": 29,
+        "query": "Na Alegoria da Caverna, Platão utiliza a imagem dos prisioneiros acorrentados observando sombras projetadas na parede. O que essa metáfora representa?",
+        "options": [
+            "A necessidade de confiar apenas nos sentidos para compreender o mundo",
+            "A ilusão do conhecimento baseado apenas nas aparências do mundo sensível",
+            "A supremacia dos governantes sobre o povo ignorante",
+            "A transição do mundo inteligível para o mundo sensível"
+        ],
+        "answer": "A ilusão do conhecimento baseado apenas nas aparências do mundo sensível",
+        "discipline": "Filosofia",
+        "subject": "Epistemologia"
+    },
+    {
+        "id": 30,
+        "query": "Qual é a principal característica do governante ideal segundo Platão em 'A República'?",
+        "options": [
+            "Ser eleito democraticamente pelo povo para garantir a justiça",
+            "Possuir uma riqueza significativa para administrar a cidade com eficiência",
+            "Ter conhecimento filosófico e governar segundo a razão",
+            "Ser militarmente poderoso para proteger a cidade contra invasões"
+        ],
+        "answer": "Ter conhecimento filosófico e governar segundo a razão",
+        "discipline": "Filosofia",
+        "subject": "Filosofia Política"
+    },
+    {
+        "id": 31,
+        "query": "Segundo a teoria da reminiscência de Platão, como os seres humanos adquirem conhecimento?",
+        "options": [
+            "Através da experiência sensorial e do aprendizado ao longo da vida",
+            "Por meio da revelação divina transmitida pelos deuses",
+            "Recordando verdades universais que a alma conheceu antes do nascimento",
+            "Através do ensino sistemático oferecido pelos sofistas"
+        ],
+        "answer": "Recordando verdades universais que a alma conheceu antes do nascimento",
+        "discipline": "Filosofia",
+        "subject": "Epistemologia"
+    },
+    {
+        "id": 32,
+        "query": "Na filosofia de Platão, qual é a relação entre o corpo e a alma?",
+        "options": [
+            "O corpo é a prisão da alma, que busca libertar-se do mundo sensível",
+            "O corpo e a alma são idênticos e inseparáveis",
+            "A alma é uma ilusão criada pelos sentidos do corpo",
+            "O corpo é superior à alma, pois permite a experiência do mundo"
+        ],
+        "answer": "O corpo é a prisão da alma, que busca libertar-se do mundo sensível",
+        "discipline": "Filosofia",
+        "subject": "Metafísica"
+    },
+    {
+        "id": 33,
+        "query": "Qual é a contribuição fundamental de Aristóteles para a lógica?",
+        "options": [
+            "A criação do conceito de dialética como método filosófico",
+            "O desenvolvimento da teoria do silogismo como base do raciocínio lógico",
+            "A formulação do método empírico para estudo da natureza",
+            "A rejeição da lógica formal em favor do pensamento intuitivo"
+        ],
+        "answer": "O desenvolvimento da teoria do silogismo como base do raciocínio lógico",
+        "discipline": "Filosofia",
+        "subject": "Lógica"
+    },
+    {
+        "id": 34,
+        "query": "Na metafísica aristotélica, qual é a diferença entre substância e acidente?",
+        "options": [
+            "A substância é o que define essencialmente um ser, enquanto o acidente são características não essenciais",
+            "A substância é imutável, e o acidente muda constantemente",
+            "A substância é o princípio ativo do universo, enquanto o acidente é um fenômeno irrelevante",
+            "A substância existe apenas no pensamento, enquanto os acidentes existem no mundo real"
+        ],
+        "answer": "A substância é o que define essencialmente um ser, enquanto o acidente são características não essenciais",
+        "discipline": "Filosofia",
+        "subject": "Metafísica"
+    },
+    {
+        "id": 35,
+        "query": "Para os estoicos, qual é o caminho para alcançar a ataraxia (tranquilidade da alma) e a eudaimonia (felicidade)?",
+        "options": [
+            "Viver de acordo com a razão e aceitar com serenidade o curso natural dos eventos",
+            "Buscar intensamente o prazer e evitar qualquer tipo de dor",
+            "Evitar qualquer tipo de envolvimento emocional e se isolar da sociedade",
+            "Dedicar-se à contemplação mística e à adoração dos deuses"
+        ],
+        "answer": "Viver de acordo com a razão e aceitar com serenidade o curso natural dos eventos",
+        "discipline": "Filosofia",
+        "subject": "Ética"
+    },
+    {
+        "id": 36,
+        "query": "Como Epicuro definia o prazer (hedonê) em sua filosofia?",
+        "options": [
+            "O prazer é ilusório, e a verdadeira felicidade está na contemplação divina",
+            "A felicidade verdadeira é alcançada através da satisfação dos desejos sem restrições",
+            "O prazer verdadeiro consiste na ausência de dor e na moderação dos desejos",
+            "O prazer supremo consiste na busca contínua por novas experiências sensoriais intensas"
+        ],
+        "answer": "O prazer verdadeiro consiste na ausência de dor e na moderação dos desejos",
+        "discipline": "Filosofia",
+        "subject": "Ética"
+    },
+    {
+        "id": 37,
+        "query": "Qual era o principal objetivo dos filósofos céticos do período helenístico?",
+        "options": [
+            "Demonstrar que o conhecimento empírico é a única fonte confiável de verdade",
+            "Suspender o juízo sobre todas as coisas para alcançar a tranquilidade",
+            "Alcançar a verdade absoluta através da lógica e da razão",
+            "Provar a existência de um princípio divino que governa o universo"
+        ],
+        "answer": "Suspender o juízo sobre todas as coisas para alcançar a tranquilidade",
+        "discipline": "Filosofia",
+        "subject": "Epistemologia"
+    },
+    {
+        "id": 38,
+        "query": "No neoplatonismo de Plotino, qual é a origem de todas as coisas e como elas se estruturam?",
+        "options": [
+            "Tudo emana de um princípio supremo chamado 'Uno', do qual derivam o intelecto e a alma",
+            "O cosmos se organiza a partir da luta eterna entre o bem e o mal",
+            "A matéria é a origem de todas as coisas, e o conhecimento surge da experiência sensorial",
+            "A ordem do universo é determinada pelo acaso e pelo movimento das esferas celestes"
+        ],
+        "answer": "Tudo emana de um princípio supremo chamado 'Uno', do qual derivam o intelecto e a alma",
+        "discipline": "Filosofia",
+        "subject": "Metafísica"
+    },
+    {
+        "id": 39,
+        "query": "Qual é a principal diferença entre a ética estoica e a ética epicurista?",
+        "options": [
+            "Os estoicos defendiam a aceitação racional do destino, enquanto os epicuristas enfatizavam a busca pelo prazer moderado",
+            "Os estoicos acreditavam que o conhecimento era impossível, enquanto os epicuristas defendiam o empirismo",
+            "Os estoicos valorizavam o hedonismo extremo, enquanto os epicuristas buscavam a virtude como fim último",
+            "Os estoicos acreditavam que a felicidade vinha do prazer, enquanto os epicuristas rejeitavam qualquer tipo de prazer"
+        ],
+        "answer": "Os estoicos defendiam a aceitação racional do destino, enquanto os epicuristas enfatizavam a busca pelo prazer moderado",
+        "discipline": "Filosofia",
+        "subject": "Ética"
+    },
+    {
+        "id": 40,
+        "query": "Qual foi um dos principais fatores que impulsionaram a expansão marítima europeia no século XV?",
+        "options": [
+            "A necessidade de explorar novas terras devido à superpopulação na Europa",
+            "A busca por novas rotas comerciais para evitar o monopólio das cidades italianas sobre as especiarias",
+            "O desejo de espalhar a Reforma Protestante liderada por Martinho Lutero.",
+            "A aliança entre Portugal e Espanha para explorar o Oceano Pacífico"
+        ],
+        "answer": "A busca por novas rotas comerciais para evitar o monopólio das cidades italianas sobre as especiarias",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 41,
+        "query": "O Tratado de Tordesilhas, assinado em 1494, estabeleceu:",
+        "options": [
+            "O domínio exclusivo da Espanha sobre todas as terras do continente americano",
+            "O reconhecimento da soberania de Portugal sobre a África e a Ásia, enquanto a Espanha controlaria toda a América",
+            "A divisão das terras entre Portugal e Espanha ao longo do meridiano",
+            "A criação de uma zona de livre comércio entre os territórios portugueses e espanhóis na América"
+        ],
+        "answer": "A divisão das terras entre Portugal e Espanha ao longo do meridiano",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 42,
+        "query": "Qual foi o principal motivo que levou Portugal e Espanha a firmarem o Tratado de Tordesilhas?",
+        "options": [
+            "A intervenção do Papa Alexandre VI, que buscava evitar conflitos entre as duas potências católicas",
+            "A descoberta de metais preciosos no interior do território brasileiro",
+            "A necessidade de garantir a segurança das colônias inglesas e francesas no Novo Mundo",
+            "A preocupação em evitar ataques constantes de povos indígenas hostis contra suas frotas marítimas"
+        ],
+        "answer": "A intervenção do Papa Alexandre VI, que buscava evitar conflitos entre as duas potências católicas",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 43,
+        "query": "A Brasil Colonial em 1500 foi resultado de:",
+        "options": [
+            "Uma expedição oficial comandada por Pedro Álvares Cabral para explorar novas terras no Atlântico",
+            "Um desvio acidental imprevisto da rota para as Índias devido a fortes tempestades no oceano Atlântico",
+            "Uma fuga dos navegadores portugueses após conflitos com comerciantes árabes na África",
+            "Uma missão secreta de Portugal para buscar ouro e pedras preciosas no Novo Mundo"
+        ],
+        "answer": "Uma expedição oficial comandada por Pedro Álvares Cabral para explorar novas terras no Atlântico",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 44,
+        "query": "Quais foram as primeiras impressões dos portugueses ao chegarem ao território que mais tarde seria chamado Brasil?",
+        "options": [
+            "Ficaram decepcionados por não encontrarem ouro e decidiram abandonar a colônia",
+            "Foram recebidos com hostilidade pelos povos indígenas, o que levou a conflitos imediatos pelo controle do território",
+            "Consideraram o território inadequado para a colonização e repassaram seu controle para a Espanha",
+            "Relataram a abundância de recursos naturais e a presença de povos indígenas com costumes diferentes dos europeus"
+        ],
+        "answer": "Relataram a abundância de recursos naturais e a presença de povos indígenas com costumes diferentes dos europeus",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 45,
+        "query": "Qual era o principal objetivo dos portugueses na exploração do pau-brasil no século XVI?",
+        "options": [
+            "Extrair sua madeira para a produção de tintura utilizada na Europa",
+            "Utilizá-lo como principal material resistente na construção de embarcações marítimas",
+            "Exportá-lo para a China em troca de especiarias",
+            "Produzir papel e mobiliário para a nobreza portuguesa"
+        ],
+        "answer": "Extrair sua madeira para a produção de tintura utilizada na Europa",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 46,
+        "query": "O sistema de capitanias hereditárias foi implementado pela Coroa Portuguesa com o objetivo de:",
+        "options": [
+            "Garantir que apenas membros da nobreza pudessem explorar as riquezas do Brasil",
+            "Estimular a colonização e a exploração econômica do território brasileiro",
+            "Dividir as terras entre Portugal e Espanha após o Tratado de Tordesilhas",
+            "Criar uma administração centralizada e eficiente na colônia"
+        ],
+        "answer": "Estimular a colonização e a exploração econômica do território brasileiro",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 47,
+        "query": "Qual foi um dos principais problemas enfrentados pelo sistema de capitanias hereditárias?",
+        "options": [
+            "A resistência indígena e a dificuldade de comunicação entre as capitanias",
+            "O excesso de recursos naturais que dificultava a administração",
+            "O fato de todas as capitanias terem prosperado rapidamente, causando disputas internas",
+            "A grande presença de espanhóis no território, que impediam o controle português"
+        ],
+        "answer": "A resistência indígena e a dificuldade de comunicação entre as capitanias",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 48,
+        "query": "Quantas capitanias hereditárias foram inicialmente estabelecidas pela Coroa Portuguesa no Brasil?",
+        "options": [
+            "14",
+            "12",
+            "10",
+            "8"
+        ],
+        "answer": "14",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 49,
+        "query": "Por que a Coroa Portuguesa decidiu substituir o sistema de capitanias hereditárias pelo Governo-Geral?",
+        "options": [
+            "Porque os donatários começaram a se tornar independentes de Portugal",
+            "Porque o Brasil havia sido conquistado pelos espanhóis",
+            "Porque a descoberta de ouro abundante tornou o controle direto mais lucrativo e estratégico",
+            "Porque a maioria das capitanias fracassou devido à má administração e à falta de recursos"
+        ],
+        "answer": "Porque a maioria das capitanias fracassou devido à má administração e à falta de recursos",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 50,
+        "query": "Quem foi o primeiro governador-geral do Brasil, nomeado em 1549?",
+        "options": [
+            "Tomé de Souza",
+            "Mem de Sá",
+            "Duarte da Costa",
+            "Martim Afonso de Sousa"
+        ],
+        "answer": "Tomé de Souza",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 51,
+        "query": "Qual foi uma das principais medidas adotadas pelo Governo-Geral para melhorar a administração da colônia?",
+        "options": [
+            "A proibição do tráfico de escravos africanos",
+            "A fundação da cidade de Salvador como capital colonial",
+            "A expulsão dos jesuítas do território brasileiro",
+            "A divisão do Brasil em novas capitanias independentes"
+        ],
+        "answer": "A fundação da cidade de Salvador como capital colonial",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 52,
+        "query": "Qual foi a principal estratégia dos portugueses para obter a cooperação dos povos indígenas no início da colonização?",
+        "options": [
+            "O estabelecimento de alianças militares e comerciais, muitas vezes intermediadas pelos jesuítas",
+            "O respeito total às culturas indígenas e a manutenção de sua autonomia",
+            "A proibição da catequese e das missões religiosas para evitar conflitos",
+            "A implementação de um governo indígena autônomo dentro da colônia"
+        ],
+        "answer": "O estabelecimento de alianças militares e comerciais, muitas vezes intermediadas pelos jesuítas",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 53,
+        "query": "Como os jesuítas influenciaram a relação entre os portugueses e os indígenas no Brasil colonial?",
+        "options": [
+            "Defenderam a escravização dos indígenas para fortalecer a economia colonial",
+            "Lutaram contra a presença portuguesa invasora e promoveram diversas revoltas indígenas organizadas",
+            "Criaram missões religiosas para catequizar os indígenas e integrá-los à sociedade colonial",
+            "Ignoraram os povos nativos e focaram apenas na administração da colônia"
+        ],
+        "answer": "Criaram missões religiosas para catequizar os indígenas e integrá-los à sociedade colonial",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 54,
+        "query": "Quais foram as principais consequências da exploração portuguesa para os povos indígenas?",
+        "options": [
+            "Redução populacional devido a doenças, escravização e conflitos violentos",
+            "Maior autonomia política e fortalecimento cultural dos indígenas",
+            "Crescimento da população indígena devido ao contato com os europeus",
+            "Proteção total dos indígenas pela Coroa Portuguesa"
+        ],
+        "answer": "Redução populacional devido a doenças, escravização e conflitos violentos",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 54,
+        "query": "Qual era a principal característica da economia baseada no ciclo da cana-de-açúcar no Brasil colonial?",
+        "options": [
+            "Os engenhos eram pequenas propriedades familiares voltadas para o consumo interno",
+            "A produção de açúcar dependia exclusivamente da mão de obra indígena",
+            "A produção era voltada para o mercado externo, principalmente europeu",
+            "A atividade açucareira se concentrava na região Sudeste do Brasil"
+        ],
+        "answer": "A produção era voltada para o mercado externo, principalmente europeu",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 55,
+        "query": "Qual era a principal forma de trabalho utilizada nos engenhos de açúcar no Brasil colonial?",
+        "options": [
+            "Mão de obra escravizada africana",
+            "Trabalho assalariado de colonos europeus",
+            "Servidão indígena regulamentada pela Coroa Portuguesa",
+            "Trabalho voluntário dos jesuítas e missionários"
+        ],
+        "answer": "Mão de obra escravizada africana",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 56,
+        "query": "Durante o ciclo do ouro no século XVIII, qual imposto era cobrado sobre a produção aurífera?",
+        "options": [
+            "O quinto, equivalente a 20% do ouro extraído",
+            "A derrama, que taxava toda a população colonial",
+            "O dízimo, que correspondia a 10% do ouro extraído",
+            "A capitação, uma taxa fixa sobre cada escravizado usado na mineração"
+        ],
+        "answer": "O quinto, equivalente a 20% do ouro extraído",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 57,
+        "query": "Além do açúcar e do ouro, quais outras atividades econômicas tiveram destaque no Brasil colonial?",
+        "options": [
+            "Pecuária, cultivo de tabaco e algodão, além do comércio interno",
+            "Extração de carvão mineral, ferro e produção de aço",
+            "Plantio de café, exploração de petróleo e gás natural",
+            "Exploração de borracha e cultivo de soja e de milho"
+        ],
+        "answer": "Pecuária, cultivo de tabaco e algodão, além do comércio interno",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 58,
+        "query": "Na sociedade colonial brasileira, qual grupo ocupava o topo da hierarquia social?",
+        "options": [
+            "Os escravizados africanos",
+            "Os indígenas catequizados",
+            "Os homens livres pobres",
+            "Os senhores de engenho"
+        ],
+        "answer": "Os senhores de engenho",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 59,
+        "query": "Sobre a escravidão no Brasil colonial, é correto afirmar que:",
+        "options": [
+            "A Coroa Portuguesa proibia a escravidão e incentivava apenas o trabalho indígena",
+            "Os escravizados africanos eram submetidos a condições desumanas de trabalho e castigos severos",
+            "A escravidão africana foi pouco utilizada devido à resistência dos senhores de engenho",
+            "Os escravizados possuíam direitos políticos e podiam comprar sua alforria sem restrições a qualquer momento"
+        ],
+        "answer": "Os escravizados africanos eram submetidos a condições desumanas de trabalho e castigos severos",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 60,
+        "query": "Qual foi o papel da Igreja Católica na administração colonial do Brasil?",
+        "options": [
+            "Atuou na catequese dos indígenas e na fiscalização moral da sociedade",
+            "Governou diretamente a colônia em nome da Coroa Portuguesa",
+            "Proibiu a escravidão e garantiu direitos aos povos indígenas",
+            "Afastou-se dos assuntos coloniais para focar apenas em questões religiosas"
+        ],
+        "answer": "Atuou na catequese dos indígenas e na fiscalização moral da sociedade",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 61,
+        "query": "Qual foi a principal justificativa para a cobrança da derrama no Brasil colonial?",
+        "options": [
+            "O aumento das importações de produtos de luxo pela população colonial",
+            "A tentativa de estimular a produção agrícola sustentável no interior remoto do país",
+            "O financiamento das campanhas militares contra os indígenas",
+            "A necessidade de garantir que a Coroa Portuguesa recebesse os impostos atrasados sobre a mineração"
+        ],
+        "answer": "A necessidade de garantir que a Coroa Portuguesa recebesse os impostos atrasados sobre a mineração",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 62,
+        "query": "Qual foi a principal motivação das invasões estrangeiras ao Brasil colonial?",
+        "options": [
+            "A necessidade de expansão religiosa dos invasores",
+            "A busca por riquezas, especialmente açúcar e ouro",
+            "A tentativa de exterminar as populações indígenas",
+            "A procura por terras para o cultivo do café"
+        ],
+        "answer": "A busca por riquezas, especialmente açúcar e ouro",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 63,
+        "query": "A Guerra dos Emboabas (1707-1709) foi um conflito que envolveu:",
+        "options": [
+            "Os indígenas contra os portugueses pela posse das terras do interior",
+            "Os jesuítas contra os senhores de engenho pelo uso da mão de obra escrava",
+            "Bandeirantes paulistas e forasteiros pela disputa do controle da mineração",
+            "Os holandeses tentando retomar o controle do Nordeste brasileiro"
+        ],
+        "answer": "Bandeirantes paulistas e forasteiros pela disputa do controle da mineração",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 64,
+        "query": "Qual foi uma das principais medidas das Reformas Pombalinas no Brasil colonial?",
+        "options": [
+            "A proibição da escravidão africana e indígena",
+            "A expulsão dos jesuítas e a reestruturação da educação",
+            "A criação de um parlamento colonial autônomo",
+            "A independência econômica do Brasil em relação a Portugal"
+        ],
+        "answer": "A expulsão dos jesuítas e a reestruturação da educação",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 65,
+        "query": "A Inconfidência Mineira (1789) foi um movimento influenciado principalmente por:",
+        "options": [
+            "O desejo da Coroa Portuguesa de conceder autonomia ao Brasil",
+            "O absolutismo europeu e a Revolução Industrial",
+            "A Revolução Francesa e a expansão napoleônica",
+            "As ideias iluministas e a independência dos Estados Unidos"
+        ],
+        "answer": "As ideias iluministas e a independência dos Estados Unidos",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 66,
+        "query": "A Conjuração Baiana (1798) se diferenciava da Inconfidência Mineira porque:",
+        "options": [
+            "Defendia a continuidade da monarquia portuguesa no Brasil",
+            "Teve forte caráter popular e defendia a abolição da escravidão",
+            "Foi organizada exclusivamente por membros da elite mineira",
+            "Aconteceu antes da Inconfidência Mineira e foi liderada por Tiradentes"
+        ],
+        "answer": "Teve forte caráter popular e defendia a abolição da escravidão",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 67,
+        "query": "A vinda da Família Real para o Brasil em 1808 resultou na:",
+        "options": [
+            "Abertura dos portos às nações amigas e no fortalecimento econômico do Brasil",
+            "Redução da influência política portuguesa na colônia",
+            "Independência imediata e definitiva do Brasil em relação ao domínio português",
+            "Transformação do Brasil em uma república"
+        ],
+        "answer": "Abertura dos portos às nações amigas e no fortalecimento econômico do Brasil",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 68,
+        "query": "O Brasil foi elevado à categoria de Reino Unido a Portugal e Algarves em 1815 com o objetivo de:",
+        "options": [
+            "Evitar que o Brasil fosse rebaixado a uma colônia após o Congresso de Viena",
+            "Garantir a independência do Brasil sem conflitos com Portugal",
+            "Fortalecer o absolutismo no Brasil e impedir movimentos separatistas",
+            "Anexar as colônias espanholas vizinhas ao território brasileiro"
+        ],
+        "answer": "Evitar que o Brasil fosse rebaixado a uma colônia após o Congresso de Viena",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 69,
+        "query": "Qual foi uma das principais consequências da herança escravista na sociedade brasileira?",
+        "options": [
+            "O aumento da distribuição equitativa de terras entre os ex-escravizados",
+            "A desigualdade social e a marginalização da população negra",
+            "O fortalecimento da presença indígena nas áreas urbanas",
+            "A abolição da escravidão antes das demais colônias europeias"
+        ],
+        "answer": "A desigualdade social e a marginalização da população negra",
+        "discipline": "História",
+        "subject": "Brasil Colonial"
+    },
+    {
+        "id": 70,
+        "query": "Qual destas estruturas é usada para repetir um bloco de código em JavaScript?",
+        "options": [
+          "if...else",
+          "switch",
+          "for",
+          "try...catch"
+        ],
+        "answer": "for",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 71,
+        "query": "Qual destes não é um tipo de dado primitivo em JavaScript?",
+        "options": [
+          "Number",
+          "String",
+          "Array",
+          "Boolean"
+        ],
+        "answer": "Array",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 72,
+        "query": "Qual método do JavaScript adiciona um elemento ao final de um array?",
+        "options": [
+          "push()",
+          "pop()",
+          "shift()",
+          "unshift()"
+        ],
+        "answer": "push()",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+    
+      {
+        "id": 73,
+        "query": "Como se acessa uma propriedade chamada 'idade' de um objeto 'pessoa' em JavaScript?",
+        "options": [
+          "pessoa(idade)",
+          "pessoa[idade]",
+          "pessoa.idade",
+          "get.pessoa.idade"
+        ],
+        "answer": "pessoa.idade",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+
+      {
+        "id": 74,
+        "query": "Qual é a forma correta de declarar uma função em JavaScript?",
+        "options": [
+          "function minhaFuncao() {}",
+          "def minhaFuncao() {}",
+          "func minhaFuncao() {}",
+          "declare minhaFuncao() {}"
+        ],
+        "answer": "function minhaFuncao() {}",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+
+      {
+        "id": 75,
+        "query": "O que é o Event Loop no JavaScript?",
+        "options": [
+          "Um mecanismo que gerencia o tempo de execução de eventos assíncronos",
+          "Uma função que repete um bloco de código indefinidamente",
+          "Um método para criar loops dentro do DOM",
+          "Uma API para manipular eventos do usuário"
+        ],
+        "answer": "Um mecanismo que gerencia o tempo de execução de eventos assíncronos",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      
+      {
+        "id": 76,
+        "query": "Qual método é usado para tratar erros em uma Promise?",
+        "options": [
+          "catch()",
+          "error()",
+          "handle()",
+          "reject()"
+        ],
+        "answer": "catch()",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 77,
+        "query": "Qual é a diferença entre os métodos 'map()', 'filter()' e 'forEach()' em arrays JavaScript?",
+        "options": [
+          "'map()' modifica os elementos, 'filter()' remove elementos, 'forEach()' apenas itera sem modificar",
+          "Os três métodos fazem exatamente a mesma coisa",
+          "'filter()' e 'forEach()' criam novos arrays, enquanto 'map()' modifica o array original",
+          "'forEach()' retorna um novo array, enquanto 'map()' e 'filter()' não retornam nada"
+        ],
+        "answer": "'map()' modifica os elementos, 'filter()' remove elementos, 'forEach()' apenas itera sem modificar",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      
+      {
+        "id": 78,
+        "query": "Qual é a forma correta de adicionar um evento de clique a um botão em JavaScript?",
+        "options": [
+          "button.click(function() {})",
+          "button.addEventListener('click', function() {})",
+          "button.onClick(function() {})",
+          "button.attachEvent('click', function() {})"
+        ],
+        "answer": "button.addEventListener('click', function() {})",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 79,
+        "query": "Qual operador lógico representa o 'E' (AND) em JavaScript?",
+        "options": [
+          "&&",
+          "||",
+          "!",
+          "&"
+        ],
+        "answer": "&&",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 80,
+        "query": "Qual é a principal diferença entre as palavras-chave 'var', 'let' e 'const' em JavaScript?",
+        "options": [
+          "'var' tem escopo de bloco, enquanto 'let' e 'const' têm escopo global",
+          "'var' tem escopo global ou de função, enquanto 'let' e 'const' têm escopo de bloco",
+          "'let' e 'const' podem ser redefinidos, enquanto 'var' não pode",
+          "'const' permite reatribuição, enquanto 'let' e 'var' não permitem"
+        ],
+        "answer": "'var' tem escopo global ou de função, enquanto 'let' e 'const' têm escopo de bloco",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 81,
+        "query": "Qual é a diferença entre os operadores de igualdade '==' e '===' em JavaScript?",
+        "options": [
+          "'==' compara valores e tipos, enquanto '===' compara apenas valores",
+          "'==' compara apenas valores, enquanto '===' compara valores e tipos",
+          "Ambos fazem a mesma comparação, não há diferença",
+          "'==' é usado apenas para números, enquanto '===' é usado para strings e objetos"
+        ],
+        "answer": "'==' compara apenas valores, enquanto '===' compara valores e tipos",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 82,
+        "query": "O que é um 'closure' em JavaScript?",
+        "options": [
+          "Um objeto especial que armazena dados em cache para otimização de desempenho",
+          "Uma função que lembra o escopo onde foi criada, mesmo quando executada fora desse escopo",
+          "Um método para definir e estruturar classes em JavaScript, utilizando a sintaxe introduzida no ES6",
+          "Um tipo de loop especializado, como for...of, projetado para iterar sobre elementos de arrays ou estruturas iteráveis "
+        ],
+        "answer": "Uma função que lembra o escopo onde foi criada, mesmo quando executada fora desse escopo",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 83,
+        "query": "Qual a diferença entre 'null' e 'undefined' em JavaScript?",
+        "options": [
+          "'null' representa a ausência intencional de valor, enquanto 'undefined' significa que a variável não foi definida",
+          "'undefined' representa a ausência intencional de valor, enquanto 'null' é um erro",
+          "Não há diferença entre 'null' e 'undefined'",
+          "'null' é um tipo de dado primitivo, enquanto 'undefined' é um objeto"
+        ],
+        "answer": "'null' representa a ausência intencional de valor, enquanto 'undefined' significa que a variável não foi definida",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 84,
+        "query": "O que a palavra-chave 'this' representa em JavaScript?",
+        "options": [
+          "Sempre se refere ao objeto global",
+          "Depende do contexto onde é chamado",
+          "Sempre aponta para o objeto que a criou",
+          "É um sinônimo para 'window'"
+        ],
+        "answer": "Depende do contexto onde é chamado",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 85,
+        "query": "Qual a principal diferença entre código síncrono e assíncrono em JavaScript?",
+        "options": [
+            "Código assíncrono é sempre mais rápido que o síncrono, pois permite a execução de tarefas em paralelo",
+            "Código síncrono usa Promises, enquanto código assíncrono usa funções normais",
+            "Código síncrono executa linha por linha, enquanto código assíncrono permite que tarefas não bloqueiem a execução",
+          "Não existe diferença, pois JavaScript é uma linguagem estritamente síncrona"
+        ],
+        "answer": "Código síncrono executa linha por linha, enquanto código assíncrono permite que tarefas não bloqueiem a execução",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 86,
+        "query": "O que fazem as palavras-chave 'async' e 'await' em JavaScript?",
+        "options": [
+          "'async' torna uma função síncrona e 'await' faz ela esperar indefinidamente",
+          "'await' é usado principalmente para delays, como em funções de temporização, e 'async' é comumente associado a loops assíncronos, permitindo a execução de tarefas em segundo plano",
+          "'async' transforma uma função em uma Promise, e 'await' pausa a execução da função até que a Promise seja resolvida",
+          "'async' e 'await' são usados para manipular eventos do DOM de forma mais eficiente"
+        ],
+        "answer": "'async' transforma uma função em uma Promise, e 'await' pausa a execução da função até que a Promise seja resolvida",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 87,
+        "query": "Qual a diferença entre 'setTimeout()' e 'setInterval()' em JavaScript?",
+        "options": [
+            "'setInterval()' pausa a execução do código repetidamente em intervalos regulares, enquanto 'setTimeout()' continua a execução normalmente, executando uma única vez após um delay específico",
+            "'setTimeout()' é assíncrono enquanto o 'setInterval()' é síncrono",
+            "'setTimeout()' executa uma função após um tempo definido, enquanto 'setInterval()' executa repetidamente em intervalos regulares",
+          "Ambos executam a função apenas uma vez, mas 'setInterval()' a executa após um delay maior"
+        ],
+        "answer": "'setTimeout()' executa uma função após um tempo definido, enquanto 'setInterval()' executa repetidamente em intervalos regulares",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+
+      {
+        "id": 88,
+        "query": "Qual é a principal diferença entre 'localStorage' e 'sessionStorage'?",
+        "options": [
+          "'localStorage' armazena dados apenas durante a sessão do usuário, enquanto 'sessionStorage' armazena permanentemente",
+          "'sessionStorage' armazena dados apenas durante a sessão do usuário, enquanto 'localStorage' persiste mesmo após fechar o navegador",
+          "'localStorage' só pode ser acessado via HTTP, enquanto 'sessionStorage' funciona com JavaScript",
+          "Não há diferença entre os dois, ambos armazenam dados temporariamente"
+        ],
+        "answer": "'sessionStorage' armazena dados apenas durante a sessão do usuário, enquanto 'localStorage' persiste mesmo após fechar o navegador",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+
+      {
+        "id": 89,
+        "query": "O que significa o conceito de protótipo em JavaScript?",
+        "options": [
+          "É um modelo de classe usado para criar objetos, fornecendo uma estrutura que define propriedades e métodos",
+          "É um mecanismo que permite herança de propriedades e métodos entre objetos em JavaScript",
+          "É um método especial para armazenar dados em cache temporário",
+          "É um padrão de design para criar funções assíncronas"
+        ],
+        "answer": "É um mecanismo que permite herança de propriedades e métodos entre objetos em JavaScript",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+
+      {
+        "id": 90,
+        "query": "Qual é a diferença entre os métodos 'splice()' e 'slice()' em arrays JavaScript?",
+        "options": [
+            "'splice()' retorna uma cópia exata do array, enquanto 'slice()' serve para modificar o original",
+            "'slice()' é usado apenas para strings, enquanto 'splice()' só funciona com arrays",
+            "'splice()' remove ou substitui elementos no array original, enquanto 'slice()' retorna uma cópia sem modificar o original",
+          "'splice()' sempre remove elementos do array original, enquanto 'slice()' sempre adiciona novos elementos"
+        ],
+        "answer": "'splice()' remove ou substitui elementos no array original, enquanto 'slice()' retorna uma cópia sem modificar o original",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+
+      {
+        "id": 91,
+        "query": "Quem criou o JavaScript e em que ano foi lançado?",
+        "options": [
+            "James Gosling, em 1991",
+            "Guido van Rossum, em 1989",
+            "Dennis Ritchie, em 1972",
+            "Brendan Eich, em 1995"
+        ],
+        "answer": "Brendan Eich, em 1995",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 92,
+        "query": "Quais são os principais tipos de dados primitivos em JavaScript?",
+        "options": [
+          "Number, String, Boolean, Object, Function",
+          "Number, String, Boolean, Null, Undefined, Symbol, BigInt",
+          "Array, Function, Object, Map, Set",
+          "Integer, Float, String, Boolean, Dictionary"
+        ],
+        "answer": "Number, String, Boolean, Null, Undefined, Symbol, BigInt",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 93,
+        "query": "Quais são os principais tipos de dados de referência em JavaScript?",
+        "options": [
+          "Number, String, Boolean, Null, Undefined, Symbol",
+          "Object, Array, Function, Map, Set",
+          "Integer, Float, String, Boolean, Dictionary",
+          "Class, Method, Prototype, Object"
+        ],
+        "answer": "Object, Array, Function, Map, Set",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 94,
+        "query": "Qual a diferença entre armazenar um dado por valor e por referência em JavaScript?",
+        "options": [
+            "Os tipos primitivos e os objetos são armazenados por valor, garantindo que cada variável tenha uma cópia única do dado.",
+            "Os tipos primitivos são armazenados por referência, permitindo que diferentes variáveis compartilhem o mesmo valor. Já os objetos são armazenados por valor e copiados inteiramente na memória.",
+            "Os tipos primitivos são armazenados por valor, ou seja, cada variável recebe uma cópia independente do dado. Já os objetos são armazenados por referência, apontando para o mesmo local na memória.",
+          "Não há diferença entre armazenar por valor e por referência, pois todas as variáveis em JavaScript funcionam da mesma maneira na memória."
+        ],
+        "answer": "Os tipos primitivos são armazenados por valor, ou seja, cada variável recebe uma cópia independente do dado. Já os objetos são armazenados por referência, apontando para o mesmo local na memória.",
+        "discipline": "Programação",
+        "subject": "JavaScript"
+      },
+      {
+        "id": 95,
+        "query": "Qual a principal vantagem de usar React em relação ao JavaScript puro?",
+        "options": [
+          "React torna a manipulação do DOM mais eficiente por meio do Virtual DOM.",
+          "React elimina completamente a necessidade de usar JavaScript no frontend.",
+          "React substitui HTML e CSS na construção de interfaces web.",
+          "React impede qualquer tipo de atualização no DOM para garantir performance."
+        ],
+        "answer": "React torna a manipulação do DOM mais eficiente por meio do Virtual DOM.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 96,
+        "query": "O que acontece quando o estado de um componente React é atualizado?",
+        "options": [
+          "Nada acontece, pois o React não re-renderiza componentes automaticamente.",
+          "O componente e todos os seus filhos são forçados a re-renderizar, independentemente da necessidade.",
+          "O React compara o novo estado com o antigo e re-renderiza apenas o necessário.",
+          "O estado atualizado não afeta a interface do usuário até que a página seja recarregada."
+        ],
+        "answer": "O React compara o novo estado com o antigo e re-renderiza apenas o necessário.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 97,
+        "query": "Qual é a função do Hook 'useEffect' no React?",
+        "options": [
+            "Substitui completamente o uso de estados em componentes funcionais.",
+            "Permite realizar efeitos colaterais em componentes funcionais, como requisições de API ou manipulação do DOM.",
+          "É usado exclusivamente para modificar diretamente o estado de um componente.",
+          "Torna os componentes React imutáveis e impede que sejam re-renderizados."
+        ],
+        "answer": "Permite realizar efeitos colaterais em componentes funcionais, como requisições de API ou manipulação do DOM.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 98,
+        "query": "Qual é a diferença entre componentes de classe e componentes funcionais no React?",
+        "options": [
+          "Componentes de classe permitem o uso de estado e métodos de ciclo de vida, enquanto componentes funcionais originalmente não permitiam, mas com a introdução dos Hooks, componentes funcionais também podem gerenciar estado e efeitos colaterais.",
+          "Componentes de classe são escritos usando classes ES6, enquanto componentes funcionais são escritos como funções JavaScript simples; ambos têm as mesmas funcionalidades e capacidades.",
+          "Componentes de classe são mais performáticos que componentes funcionais.",
+          "Componentes funcionais não podem receber props, enquanto componentes de classe podem."
+        ],
+        "answer": "Componentes de classe permitem o uso de estado e métodos de ciclo de vida, enquanto componentes funcionais originalmente não permitiam, mas com a introdução dos Hooks, componentes funcionais também podem gerenciar estado e efeitos colaterais.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 99,
+        "query": "Para que serve a prop 'key' ao renderizar listas em React?",
+        "options": [
+            "É usada para definir estilos personalizados para cada item da lista.",
+            "A propriedade 'key' permite armazenar e gerenciar de forma eficiente o estado de cada item individualmente dentro da lista.",
+            "Serve para identificar elementos de forma única, ajudando na atualização eficiente da lista pelo React.",
+          "Apenas melhora a acessibilidade, mas não afeta o desempenho da aplicação."
+        ],
+        "answer": "Serve para identificar elementos de forma única, ajudando na atualização eficiente da lista pelo React.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 100,
+        "query": "O que é o Virtual DOM e como ele melhora o desempenho das aplicações React?",
+        "options": [
+            "O Virtual DOM é uma extensão do DOM real que adiciona funcionalidades extras para melhorar o desempenho dos estados da aplicação.",
+            "O Virtual DOM é uma ferramenta externa que deve ser integrada ao React para melhorar o desempenho da interface..",
+            "O Virtual DOM é uma cópia do DOM real que React mantém na memória; ele melhora o desempenho ao minimizar operações diretas no DOM real.",
+          "O Virtual DOM é um método de armazenamento de dados utilizado pelo React para gerenciar estados."
+        ],
+        "answer": "O Virtual DOM é uma cópia do DOM real que React mantém na memória; ele melhora o desempenho ao minimizar operações diretas no DOM real.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 101,
+        "query": "O que é o JSX e por que é usado no React?",
+        "options": [
+            "JSX é uma linguagem de template separada que React utiliza para gerar HTML.",
+            "JSX é uma ferramenta de estilo que permite aplicar CSS diretamente nos componentes React.",
+            "JSX é uma extensão de sintaxe para JavaScript que permite escrever HTML dentro do JavaScript.",
+          "JSX é um formato de arquivo usado para armazenar componentes React."
+        ],
+        "answer": "JSX é uma extensão de sintaxe para JavaScript que permite escrever HTML dentro do JavaScript.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 102,
+        "query": "Como o React gerencia o fluxo de dados em uma aplicação?",
+        "options": [
+            "O React utiliza um fluxo de dados bidirecional, permitindo que dados sejam compartilhados livremente entre todos os componentes.",
+            "O React não possui um método específico para gerenciar o fluxo de dados; isso é determinado pelo desenvolvedor.",
+            "O React utiliza um banco de dados interno para gerenciar o estado e o fluxo de dados.",
+            "O React utiliza um fluxo de dados unidirecional, onde os dados fluem dos componentes pais para os componentes filhos através de props."
+        ],
+        "answer": "O React utiliza um fluxo de dados unidirecional, onde os dados fluem dos componentes pais para os componentes filhos através de props.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 103,
+        "query": "O que são Hooks no React?",
+        "options": [
+            "Hooks são métodos de ciclo de vida que só podem ser usados em componentes de classe.",
+            "Hooks são ferramentas de estilo que permitem aplicar CSS diretamente nos componentes React.",
+            "Hooks são funções que permitem usar estado e outros recursos do React em componentes funcionais.",
+          "Hooks são bibliotecas externas que adicionam funcionalidades adicionais ao React."
+        ],
+        "answer": "Hooks são funções que permitem usar estado e outros recursos do React em componentes funcionais.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 104,
+        "query": "O que é o estado (state) em um componente React e como ele difere das props?",
+        "options": [
+            "O estado e as props são a mesma coisa no React e podem ser modificados livremente dentro de qualquer componente, pois ambos servem para armazenar e gerenciar dados.",
+            "O estado armazena apenas dados numéricos, enquanto as props podem armazenar qualquer tipo de dado.",
+          "O estado é um objeto interno que armazena informações do componente e pode ser modificado, enquanto as props são valores imutáveis passados de um componente pai para um filho.",
+          "As props são usadas apenas em componentes de classe, enquanto o estado é exclusivo de componentes funcionais."
+        ],
+        "answer": "O estado é um objeto interno que armazena informações do componente e pode ser modificado, enquanto as props são valores imutáveis passados de um componente pai para um filho.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      },
+      {
+        "id": 105,
+        "query": "O que é o Context API no React e quando ele deve ser usado?",
+        "options": [
+            "A Context API é um Hook do React que substitui completamente o Redux, oferecendo uma solução nativa e integrada para o gerenciamento de estado global em aplicações React.",
+            "Context API é uma biblioteca externa usada para estilizar e gerenciar componentes React.",
+            "Context API é uma solução para gerenciamento de estado que permite compartilhar dados entre componentes sem precisar passar props manualmente em cada nível.",
+          "Context API é um método exclusivo para gerenciar o ciclo de vida de componentes de classe."
+        ],
+        "answer": "Context API é uma solução para gerenciamento de estado que permite compartilhar dados entre componentes sem precisar passar props manualmente em cada nível.",
+        "discipline": "Programação",
+        "subject": "React.js"
+      }
+
+      
+      
+      
+      
+    
+]

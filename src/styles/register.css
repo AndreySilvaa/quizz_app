@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    margin: 2em 0;
+    color: #000000d9;
+    font-weight: 500;
+}
+
+.registerForm{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: 2em;
+}
+
+.registerForm input{
+    border: 1px solid #8080805c;
+    padding: 12px 16px;
+    border-radius: 3px;
+    font-size: 17px;
+}
+
+button{
+    padding: .5em 2em;
+    margin: auto;
+    border-radius: 11px;
+    background-color: #4c99f4;
+    color: white;
+    cursor: pointer;
+    font-size: 19px;
+}
+
+input:focus-visible{
+    outline: none;
+}

@@ -1,0 +1,6 @@
+1- Exibir, no simulado, o número da questão atual pelo número total de questões
+
+2- Pegue o número total de questões logo após a filtragem e salve-o, pois ele irá reduzir posteriormente
+
+3- Para obter o número atual da questão, pegue o número total de questões e subtraia pelo número total de
+questões atual, variável anterior ao número total de questões que é fixo, e depois some +1
