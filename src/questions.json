@@ -1371,7 +1371,98 @@
         "answer": "Context API é uma solução para gerenciamento de estado que permite compartilhar dados entre componentes sem precisar passar props manualmente em cada nível.",
         "discipline": "Programação",
         "subject": "React.js"
-      }
+      },
+      {
+        "id": 106,
+        "query": "O que é um átomo?",
+        "options": [
+            "Uma partícula indivisível de matéria",
+            "Uma molécula subatômica formada por ligações entre prótons e elétrons",
+            "A menor unidade da matéria que mantém as propriedades de um elemento químico",
+            "Uma carga elétrica em movimento constante"
+        ],
+        "answer": "A menor unidade da matéria que mantém as propriedades de um elemento químico",
+        "discipline": "Física",
+        "subject": "Eletricidade"
+    },
+    {
+        "id": 107,
+        "query": "Qual das seguintes partículas NÃO faz parte da estrutura de um átomo?",
+        "options": [
+            "Próton",
+            "Neutrino",
+            "Nêutron",
+            "Elétron"
+        ],
+        "answer": "Neutrino",
+        "discipline": "Física",
+        "subject": "Eletricidade"
+    },
+    {
+        "id": 108,
+        "query": "O que é um íon?",
+        "options": [
+          "Um átomo com número igual de prótons e elétrons",
+          "Um átomo ou molécula que perdeu ou ganhou elétrons",
+            "Uma molécula composta por átomos neutros",
+            "Uma partícula que compõe o núcleo atômico"
+        ],
+        "answer": "Um átomo ou molécula que perdeu ou ganhou elétrons",
+        "discipline": "Física",
+        "subject": "Eletricidade"
+    },
+    {
+        "id": 109,
+        "query": "Qual dessas opções representa um átomo em equilíbrio elétrico?",
+        "options": [
+            "Possui um número maior de prótons do que elétrons",
+            "Possui um número maior de elétrons do que prótons",
+            "Possui o mesmo número de prótons e elétrons",
+            "Possui um núcleo sem nêutrons"
+        ],
+        "answer": "Possui o mesmo número de prótons e elétrons",
+        "discipline": "Física",
+        "subject": "Eletricidade"
+    },
+    {
+        "id": 110,
+        "query": "O que determina a carga elétrica de um átomo?",
+        "options": [
+            "A quantidade de nêutrons no núcleo",
+            "A energia dos elétrons em suas camadas",
+            "A ligação química entre os átomos",
+            "A diferença entre o número de prótons e elétrons"
+        ],
+        "answer": "A diferença entre o número de prótons e elétrons",
+        "discipline": "Física",
+        "subject": "Eletricidade"
+    },
+    {
+      "id": 111,
+      "query": "Qual é a fórmula utilizada para calcular a carga elétrica de um corpo?",
+      "options": [
+          "Q = m x g",
+          "Q = I x R",
+          "Q = n x e",
+          "Q = V x I"
+      ],
+      "answer": "Q = n x e",
+      "discipline": "Física",
+      "subject": "Eletricidade"
+  },
+  {
+      "id": 112,
+      "query": "De acordo com o princípio da atração e repulsão das cargas elétricas, qual das seguintes afirmações é verdadeira?",
+      "options": [
+          "Cargas de sinais opostos se repelem",
+          "Cargas de mesmo sinal se atraem",
+          "Cargas elétricas não interagem entre si",
+          "Cargas de sinais opostos se atraem"
+      ],
+      "answer": "Cargas de sinais opostos se atraem",
+      "discipline": "Física",
+      "subject": "Eletricidade"
+  }
 
       
       

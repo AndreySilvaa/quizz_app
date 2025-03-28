@@ -4,13 +4,16 @@ import mongoose from "mongoose";
 import User from "./model/User.js";
 import bcrypt from "bcrypt";
 import jwt from 'jsonwebtoken'
+import cookieParser from "cookie-parser";
 
 const saltRounds = 10;
 const app = express();
 const port = 4000;
+const privateKey = 'amora'
 
 app.use(cors({origin: 'http://localhost:5173', credentials: true}));
 app.use(express.json());
+app.use(cookieParser())
 
 mongoose
   .connect(
@@ -50,7 +53,7 @@ app.post('/login', async (req, res) =>{
 
     const userDoc = await User.findOne({name})
     const userPassword = userDoc.password
-    const privateKey = 'amora'
+    
 
 
     try {
@@ -75,6 +78,22 @@ app.post('/login', async (req, res) =>{
     }
 
     
+})
+
+app.get('/profile', (req, res) =>{
+  const {token} = req.cookies
+
+  console.log(token)
+
+  jwt.verify(token, privateKey, {}, (err, info) => {
+    if(err) throw err
+
+    res.json(info)
+  })
+})
+
+app.get('/logout', (req, res) => {
+    res.cookie('token', '').json('Ok')
 })
 
 app.listen(port, () => {
